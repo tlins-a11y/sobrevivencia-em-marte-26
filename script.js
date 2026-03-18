@@ -7,3 +7,5 @@ let consumoTotalBase = pessoas * consumoDiario;
 let diasRestantes = oxigenio / consumoTotalBase;
 
 alert(`Relatório de Marte: Restam ${diasRestantes.toFixed(0)} dias de oxigênio!!`);
+
+alert ("oii");
